@@ -1,9 +1,7 @@
-🔥 "Success is a lousy teacher. It seduces smart people into thinking they cant lose"
-
-<img src="https://cdn.dribbble.com/users/1029692/screenshots/11914777/media/71140b80fe267f30eb8caac74505a841.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.dribbble.com/users/1029692/screenshots/11914777/media/71140b80fe267f30eb8caac74505a841.png" min-width="400px" max-width="400px" width="400px" align="right" alt="technology">
 
 <p align="left"> 
-  👋 Hi! I'm a <strong>techology enthusiast</strong> and <strong>software developer</strong>.
+  🔥 "Success is a lousy teacher. It seduces smart people into thinking they cant lose"
 </p>
 
 <p align="left"> 
