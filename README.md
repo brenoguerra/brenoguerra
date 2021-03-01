@@ -3,9 +3,9 @@
 A Javascript developer from Brazil. I love building applications, talk about techology & discussing new product ideas.
 
 ## Skills
-<p>
+<strong>
   <h1><img height="20" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png"> Javascript</h1>
-</p>
+</strong>
 <p>
   <h1><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"> Typescript</h1>
 </p>
