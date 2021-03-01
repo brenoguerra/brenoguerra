@@ -11,7 +11,6 @@ A Javascript developer from Brazil. I love building applications, talk about tec
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0E76A8?style=for-the-badge&logoColor=white?color=%20%2300acee&label=LinkedIn)][linkedin]
-
 [![Gmail](https://img.shields.io/badge/-Gmail-BB001B?style=for-the-badge&logoColor=white?color=%20%2300acee&label=brenoguerradev@gmail.com)][linkedin]
 
 [homepage]: https://github.com/brenoguerra
