@@ -1,25 +1,20 @@
-<img src="https://cdn.dribbble.com/users/1029692/screenshots/11914777/media/71140b80fe267f30eb8caac74505a841.png" min-width="400px" max-width="400px" width="400px" align="right" alt="technology">
+### I'm [Breno Guerra][homepage]
 
-<p align="left"> 
-  🔥 "Success is a lousy teacher. It seduces smart people into thinking they cant lose"
+A Javascript developer from Brazil. I love building applications, talk about techology & discussing new product ideas.]
+
+[![LinkedIn](https://img.shields.io/twitter/follow/dani_akash_?color=%20%2300acee&label=Connect%20me%20on%20LinkedIn&style=for-the-badge)][linkedin]
+
+## About me
+- Work for [TINDIN][tindin]
+
+## Skills
+<p>
+  <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png">
+  <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
+  <img height="40" src="https://img.icons8.com/color/452/nodejs.png">
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </p>
 
-<p align="left"> 
-  👋 Hi! I'm a <strong>techology enthusiast</strong> and <strong>software developer</strong>.
-</p>
-
-<p align="left">
-  🦄 Skills: <strong>HTML, CSS, JavaScript, Node.js and React.js.</strong>
-</p>
-
-<p align="left">
-  💌 You can contact me for projects (or only talk) by: ⤵️
-</p>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/breno-guerra" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/breno-guerra" /></a>
-
-  <a href="https://www.facebook.com/exudojazz/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-brenoguerradev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[homepage]: https://github.com/brenoguerra
+[tindin]: https://www.tindin.com.br
+[linkedin]: https://www.linkedin.com/in/breno-guerra
