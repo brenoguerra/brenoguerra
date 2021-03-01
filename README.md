@@ -8,13 +8,10 @@ A Javascript developer from Brazil. I love building applications, talk about tec
 </p>
 <p>
   <h1><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"> Typescript</h1>
-  <img height="40" src="https://img.icons8.com/color/452/nodejs.png">
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </p>
 
 <p>
   <h1><img height="20" src="https://img.icons8.com/color/452/nodejs.png"> Node.js</h1>
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </p>
 
 <p>
